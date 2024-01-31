@@ -1,0 +1,29 @@
+.box1 {
+    display: block;
+    background-color: brown;
+    width: 100px;
+    height: 100px;
+    position: a;
+}
+
+.box2 {
+    display: block;
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    left: 100px;
+}
+
+.box3 {
+    display: block;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    left: 200px;
+}
+
+.container {
+    border: 2px solid black;
+    width: 2000px;
+    height: 2000px;
+}
